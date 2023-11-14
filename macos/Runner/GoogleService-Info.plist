@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>777507006841-mpvv0s7radh6166il38jdoj4c6p9gfu3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.777507006841-mpvv0s7radh6166il38jdoj4c6p9gfu3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnj6tnCb1muARgZIepaexcIEIwio-WBh4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>777507006841</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aapnaBazar</string>
+	<key>PROJECT_ID</key>
+	<string>bseb-12th-physics-notes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bseb-12th-physics-notes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:777507006841:ios:cb1a199c27d6988cb567a8</string>
+</dict>
+</plist>
